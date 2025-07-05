@@ -48,7 +48,7 @@ Expense_Tracker_Api/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/bashilshr/Vrit_internship.git
+   git clone https://github.com/bashilshr/Expense-Tracker-API.git
    cd Expense-Tracker-Api
 2. **Create Virtual Environment**
    ```bash
